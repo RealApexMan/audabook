@@ -1,0 +1,9 @@
+{
+  "projects": {
+    "default": "audabook-staging",
+    "staging": "audabook-staging",
+    "production": "audabooking"
+  },
+  "targets": {},
+  "etags": {}
+}
